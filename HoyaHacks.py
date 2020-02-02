@@ -20,7 +20,7 @@ while (choice == "yes"):
         print("a. accept the straw");
         print("b. Whip out your fancy metal straw?");
         response1 = input("What is your choice?");
-        if (response1 == "a." or "a"):
+        if (response1 == "a." or response1== "a"):
             print("Congrats! You killed a turtle! (What are the odds right?")
             print("According to The Sea Turtle Conservancy, 100 million marine")
             print("animals die every year from ingesting debris. What’s more,")
